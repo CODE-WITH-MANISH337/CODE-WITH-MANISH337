@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Hi, I’m Manish Jaiswar 👋  <br>I’m a student and aspiring Data Scientist / ML Engineer from Mumbai, India, with a strong interest in Machine Learning, Deep Learning(Neural Networks) .<br><br>- 🔭 I’m currently working on ML and AI projects.<br>- 🌱 I’m currently learning advanced Python, MLOps, and cloud technologies.<br>- 👯 I’m looking to collaborate on data science and AI-based projects.<br>- 💬 Ask me about Python, ML, SQL, Power BI, and data analysis.<br>- ⚡ Fun fact: I enjoy building practical tech projects and continuously learning
+<br>Hi, I’m Manish Jaiswar 👋  <br>I’m a student and aspiring AI/ ML Engineer from Mumbai, India, with a strong interest in Machine Learning, Deep Learning(Neural Networks) .<br><br>- 🔭 I’m currently working on ML and AI projects.<br>- 🌱 I’m currently learning advanced Python, MLOps, and cloud technologies.<br>- 👯 I’m looking to collaborate on data science and AI-based projects.<br>- 💬 Ask me about Python, ML, SQL, Power BI, and data analysis.<br>- ⚡ Fun fact: I enjoy building practical tech projects and continuously learning
 
 
 ## 🌐 Socials:
